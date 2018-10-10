@@ -5,6 +5,8 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     private static final int NAV = 764;
+    private static final int ABC = 264;
+
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
