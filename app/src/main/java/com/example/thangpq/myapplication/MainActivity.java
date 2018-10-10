@@ -5,6 +5,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
     private static final int NAV = 764;
+    private static final String KEY_ONE = "ONE";
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
